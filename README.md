@@ -1,16 +1,13 @@
-### Hi there 👋
+# Mugilan Subramaniyan―@notmugil
 
-<!--
-**NotMugil/NotMugil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Mugilan―Welcome to my GitHub repository! This repository serves as a showcase of my projects, contributions, and interests in the field of development.
 
-Here are some ideas to get you started:
+## Get in touch
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always open to networking, collaboration, and new opportunities. You can reach me through the following channels:
+
+‧ Email: [mugilsubramani@gmail.com](mailto:mugilsubramani@gmail.com)
+‧ LinkedIn: [NotMugil](https://www.linkedin.com/in/notmugil)
+‧ Twitter/X: [@NotMugil](https://twitter.com/notmugil)
+
+Feel free to connect with me, and I'll be glad to have a conversation!
