@@ -6,7 +6,7 @@ Hi, I'm Mugilan―Welcome to my GitHub repository! This repository serves as a s
 
 I'm always open to networking, collaboration, and new opportunities. You can reach me through the following channels:
 
- ‧ Email: [mugilsubramani@gmail.com](mailto:mugilsubramani@gmail.com) 
+ ‧ Instagram: [@NotMugil](https://www.instagram.com/notmugil) 
  
  ‧ LinkedIn: [NotMugil](https://www.linkedin.com/in/notmugil) 
  
