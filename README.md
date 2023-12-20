@@ -1,4 +1,4 @@
-# Mugilan Subramaniyan―@notmugil
+# Mugilan Subramaniyan ― @notmugil
 
 Hi, I'm Mugilan―Welcome to my GitHub repository! This repository serves as a showcase of my projects, contributions, and interests in the field of development.
 
